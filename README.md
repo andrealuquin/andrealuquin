@@ -8,9 +8,9 @@
 
 
 ## 🚧 Currently Working On
-- 🍔 2048 Hamburger Game  
 - 🎨 Painting App  
-- 🛍️ E-Commerce Website  
+- 🛍️ E-Commerce Website
+- Journal Website 
 
 
 
