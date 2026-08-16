@@ -10,7 +10,7 @@
 ## 🚧 Currently Working On
 - 🎨 Painting App  
 - 🛍️ E-Commerce Website
-- Journal Website 
+- 📕 Journal Website 
 
 
 
